@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.r1 {
+    width: 100%;
+    background-color: grey;
+    height: 135px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    box-sizing: border-box;
+}
+
+.r2 {
+    height: 270px;
+    width: 100%;
+}
+
+.p-text {
+    font-weight: bold;
+    font-size: xx-large;
+    text-align: left;
+    padding: 50px;
+}
+
+.r3 {
+    width: 100%;
+    height: 135px;
+    background-color: blue;
+}
+
+.r4 {
+    width: 100%;
+    height: 135px;
+    background-color: turquoise;
+}
+
+.r5 {
+    width: 100%;
+    height: 135px;
+    background-color: limegreen;
+}
+
+.r6 {
+    width: 100%;
+    height: 135px;
+    background-color: yellow;
+}
